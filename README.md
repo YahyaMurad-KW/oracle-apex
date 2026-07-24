@@ -1,51 +1,55 @@
-# Q8Tickets
+# Oracle APEX Projects
 
-Q8Tickets is a web-based football match ticket booking system developed using **Oracle APEX** and **Oracle Database**. The application provides a complete ticket reservation experience, allowing users to browse upcoming matches, select seating sections, book tickets, complete payments, and manage their reservations through an intuitive web interface.
+A collection of Oracle APEX applications developed by **Yahya Murad**. These projects demonstrate practical experience in web application development, relational database design, SQL, and PL/SQL using Oracle APEX.
 
-## Features
+## About
 
-* User registration and authentication
-* Browse upcoming football matches
-* View stadium and seating section information
-* Select ticket quantity and seating section
-* Secure booking and payment process
-* Booking confirmation and summary
-* Booking history
-* User feedback and rating system
-* Administrative dashboard for managing matches, stadiums, and bookings
+This repository showcases Oracle APEX projects built to solve real-world problems through responsive web applications and database-driven solutions. Each project highlights different aspects of application development, including user authentication, data management, reporting, and interactive user interfaces.
 
-## Technologies Used
+## Projects
+
+### 🎟️ Q8Tickets
+
+A football match ticket booking system that allows users to browse matches, select seating sections, complete bookings, and manage reservations through a web-based platform.
+
+**Technologies:**
 
 * Oracle APEX
 * Oracle Database
 * SQL
 * PL/SQL
 
-## Documentation
+## Skills Demonstrated
 
-Additional project documentation is available in the **Documentation** folder, including:
+* Oracle APEX Development
+* SQL & PL/SQL Programming
+* Relational Database Design
+* Database Normalization
+* Interactive Reports & Forms
+* Authentication & Authorization
+* Data Validation
+* Web Application Development
 
-* Database Schema
-* Entity Relationship (ER) Diagram
-* System Architecture
-* User Flow
+## Repository Structure
 
-## Learning Outcomes
+```text
+Oracle-APEX-Projects
+│
+├── Q8Tickets
+│   ├── README.md
+│   ├── Screenshots
+│   └── Documentation
+│
+└── Future Projects
+```
 
-This project strengthened my practical experience in:
+## Future Projects
 
-* Oracle APEX application development
-* Relational database design
-* SQL and PL/SQL programming
-* Web application development
-* Database normalization
-* User interface design
-* End-to-end booking system implementation
+Additional Oracle APEX applications will be added as they are completed.
 
-## Project Status
+## Author
 
-Completed.
+**Yahya Murad**
 
-## Note
-
-The source code and Oracle APEX application export are not publicly available. This repository showcases the project's functionality, design, and documentation for portfolio purposes.
+Computer Engineering Graduate
+Kuwait University
