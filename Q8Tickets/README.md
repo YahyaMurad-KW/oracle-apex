@@ -49,3 +49,4 @@ Completed.
 ## Note
 
 The source code and Oracle APEX application export are not publicly available. This repository showcases the project's functionality, design, and documentation for portfolio purposes.
+
