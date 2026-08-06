@@ -14,7 +14,7 @@ Q8Tickets is a web-based football match ticket booking system developed using **
 * User feedback and rating system
 * Administrative dashboard for managing matches, stadiums, and bookings
 
-## Technologies Used
+## Tech Stack
 
 * Oracle APEX
 * Oracle Database
